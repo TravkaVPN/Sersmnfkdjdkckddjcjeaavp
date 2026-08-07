@@ -3,9 +3,27 @@
 #subscription-userinfo: upload=0; download=115211829248; total=0; expire=1788739200
 #profile-web-page-url: https://TravkaVPNbot.t.me
 
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Server_1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#Server_2
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Server_3
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Server_4
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Server_5
-
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@gg1.serviceoda.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=0tXJ2_hHZNfhFvmNx-qcYmACNydKpkHNgzv9961g43k&sid=7e3ffa92a19813ff&type=tcp&headerType=none&fp=firefox#Server_1
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@gg1.serviceoda.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=0tXJ2_hHZNfhFvmNx-qcYmACNydKpkHNgzv9961g43k&sid=7e3ffa92a19813ff&type=tcp&headerType=none&fp=ios#Server_2
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@gg1.serviceoda.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=0tXJ2_hHZNfhFvmNx-qcYmACNydKpkHNgzv9961g43k&sid=7e3ffa92a19813ff&type=tcp&headerType=none&fp=qq#Server_3
+vless://b3790af1-e595-408d-bd26-2f21a15cd610@fast.superturk.ir:443?security=reality&encryption=none&pbk=pCo2-ElBkfx1KTUwjzUyQVxcqGHcQXoX6-_z5uIccC0&headerType=&spx=%2F5Ld8NFUDhE8lQrq&type=tcp&sni=telewebion.ir&sid=5918f395cc696590&fp=android#Server_4
+vless://b3790af1-e595-408d-bd26-2f21a15cd610@fast.superturk.ir:443?security=reality&encryption=none&pbk=pCo2-ElBkfx1KTUwjzUyQVxcqGHcQXoX6-_z5uIccC0&headerType=&spx=%2F5Ld8NFUDhE8lQrq&type=tcp&sni=telewebion.ir&sid=5918f395cc696590&fp=chrome#Server_5
+vless://b3790af1-e595-408d-bd26-2f21a15cd610@fast.superturk.ir:443?security=reality&encryption=none&pbk=pCo2-ElBkfx1KTUwjzUyQVxcqGHcQXoX6-_z5uIccC0&headerType=&spx=%2F5Ld8NFUDhE8lQrq&type=tcp&sni=telewebion.ir&sid=5918f395cc696590&fp=safari#Server_6
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@fn.cryptoofarm.com:2053?encryption=none&security=reality&sni=fn.cryptoofarm.com&pbk=qEemc5mnxCg4kPBK-AiuzKzPYBqbxA62d7-ln7yZVkw&sid=b599bdfa99d1b7&spx=%2F&type=grpc&authority=grpc-ux-d5f9v2c7nq&serviceName=fn.cryptoofarm.com&mode=gun&fp=chrome#Estonia_Tallinn_1
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@fn.cryptoofarm.com:2053?encryption=none&security=reality&sni=fn.cryptoofarm.com&pbk=qEemc5mnxCg4kPBK-AiuzKzPYBqbxA62d7-ln7yZVkw&sid=b599bdfa99d1b7&spx=%2F&type=grpc&authority=grpc-ux-d5f9v2c7nq&serviceName=fn.cryptoofarm.com&mode=gun&fp=firefox#Estonia_Tallinn_2
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@fn.cryptoofarm.com:2053?encryption=none&security=reality&sni=fn.cryptoofarm.com&pbk=qEemc5mnxCg4kPBK-AiuzKzPYBqbxA62d7-ln7yZVkw&sid=b599bdfa99d1b7&spx=%2F&type=grpc&authority=grpc-ux-d5f9v2c7nq&serviceName=fn.cryptoofarm.com&mode=gun&fp=qq#Estonia_Tallinn_3
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&mode=gun&security=none&serviceName=grpc&type=grpc#Estonia_Tallinn_4
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@217.60.193.4:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp&fp=android#Germany_Mosbach_1
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@217.60.193.4:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp&fp=edge#Germany_Mosbach_2
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@217.60.193.4:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&type=tcp&fp=firefox#Germany_Mosbach_3
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&sni=ddc-akn.astralweb.tech&fp=edge#Germany_Mosbach_4
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&sni=ddc-akn.astralweb.tech&fp=firefox#Germany_Mosbach_5
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&sni=ddc-akn.astralweb.tech&fp=qq#Germany_Mosbach_6
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@it1-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=edge#Italy_Milan_1
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@it1-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=ios#Italy_Milan_2
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@it1-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=qq#Italy_Milan_3
+vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@31.76.113.187:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=chrome#Italy_Milan_4
+vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@31.76.113.187:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=firefox#Italy_Milan_5
+vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@31.76.113.187:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=safari#Italy_Milan_6
+vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@it1-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=chrome#Italy_Milan_7
+vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@it1-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=firefox#Italy_Milan_8
