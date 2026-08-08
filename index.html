@@ -46,24 +46,25 @@
     </div>
 
     <script>
-        const userAgent = navigator.userAgent.toLowerCase();
-        const isVpnClient = userAgent.includes('v2ray') || 
-                            userAgent.includes('hiddify') || 
-                            userAgent.includes('happ') || 
-                            userAgent.includes('clash') || 
-                            userAgent.includes('sing-box') ||
-                            userAgent.includes('dart') || 
-                            userAgent.includes('okhttp');
+        fetch('sub.txt')
+            .then(response => response.text())
+            .then(data => {
+                const userAgent = navigator.userAgent.toLowerCase();
+                const isVpnClient = userAgent.includes('v2ray') || 
+                                    userAgent.includes('hiddify') || 
+                                    userAgent.includes('happ') || 
+                                    userAgent.includes('clash') || 
+                                    userAgent.includes('sing-box') ||
+                                    userAgent.includes('dart') || 
+                                    userAgent.includes('okhttp');
 
-        if (isVpnClient) {
-            fetch('sub.txt')
-                .then(response => response.text())
-                .then(data => {
+                if (isVpnClient) {
                     document.open();
                     document.write('<pre>' + data + '</pre>');
                     document.close();
-                });
-        }
+                }
+            });
     </script>
 </body>
 </html>
+
