@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Травка VPN</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: #0f172a;
+            color: #f8fafc;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .card {
+            background: #1e293b;
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+            text-align: center;
+            max-width: 400px;
+            width: 90%;
+        }
+        h1 { margin-top: 0; color: #38bdf8; }
+        .status { 
+            background: #065f46; 
+            color: #34d399; 
+            padding: 8px 16px; 
+            border-radius: 20px; 
+            display: inline-block; 
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        p { color: #94a3b8; line-height: 1.5; font-size: 14px; }
+        .info { margin: 10px 0; font-size: 15px; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1 id="title">🌿 Травка VPN</h1>
+        <div class="status" id="status-badge">Подписка активна</div>
+        <div class="info" id="traffic-info">Трафик: Загрузка...</div>
+        <div class="info" id="expire-info">Истекает: Загрузка...</div>
+        <p>Вставьте ссылку на этот сайт в ваш VPN-клиент для автоматической загрузки серверов.</p>
+    </div>
+
+    <script>
+        fetch('sub.txt')
+            .then(response => response.text())
+            .then(data => {
+                const lines = data.split('\n');
+                lines.forEach(line => {
+                    if (line.startsWith('#profile-title:')) {
+                        let titleVal = line.replace('#profile-title:', '').trim();
+                        if (titleVal.startsWith('base64:')) {
+                            try {
+                                const decoded = atob(titleVal.replace('base64:', ''));
+                                document.getElementById('title').innerText = decoded;
+                            } catch(e) {}
+                        }
+                    }
+                    if (line.startsWith('#subscription-userinfo:')) {
+                        let info = line.replace('#subscription-userinfo:', '').trim();
+                        let parts = info.split(';');
+                        let download = 0, expire = 0;
+                        parts.forEach(p => {
+                            let item = p.trim().split('=');
+                            if (item[0] === 'download') download = parseInt(item[1]);
+                            if (item[0] === 'expire') expire = parseInt(item[1]);
+                        });
+                        
+                        if (download) {
+                            let gb = (download / (1024 * 1024 * 1024)).toFixed(1);
+                            document.getElementById('traffic-info').innerText = `Использовано: ${gb} GB / ∞`;
+                        }
+                        if (expire) {
+                            let date = new Date(expire * 1000).toLocaleDateString('ru-RU');
+                            document.getElementById('expire-info').innerText = `Истекает: ${date}`;
+                        }
+                    }
+                });
+            })
+            .catch(err => {
+                document.getElementById('traffic-info').innerText = 'Не удалось загрузить данные подписки';
+            });
+    </script>
+</body>
+</html>
+
+
