@@ -36,59 +36,34 @@
             margin-bottom: 20px;
         }
         p { color: #94a3b8; line-height: 1.5; font-size: 14px; }
-        .info { margin: 10px 0; font-size: 15px; }
     </style>
 </head>
 <body>
     <div class="card">
-        <h1 id="title">🌿 Травка VPN</h1>
-        <div class="status" id="status-badge">Подписка активна</div>
-        <div class="info" id="traffic-info">Трафик: Загрузка...</div>
-        <div class="info" id="expire-info">Истекает: Загрузка...</div>
-        <p>Вставьте ссылку на этот сайт в ваш VPN-клиент для автоматической загрузки серверов.</p>
+        <h1>🌿 Травка VPN</h1>
+        <div class="status">Подписка активна</div>
+        <p>Вставьте эту ссылку в ваш VPN-клиент для импорта серверов.</p>
     </div>
 
     <script>
-        fetch('sub.txt')
-            .then(response => response.text())
-            .then(data => {
-                const lines = data.split('\n');
-                lines.forEach(line => {
-                    if (line.startsWith('#profile-title:')) {
-                        let titleVal = line.replace('#profile-title:', '').trim();
-                        if (titleVal.startsWith('base64:')) {
-                            try {
-                                const decoded = atob(titleVal.replace('base64:', ''));
-                                document.getElementById('title').innerText = decoded;
-                            } catch(e) {}
-                        }
-                    }
-                    if (line.startsWith('#subscription-userinfo:')) {
-                        let info = line.replace('#subscription-userinfo:', '').trim();
-                        let parts = info.split(';');
-                        let download = 0, expire = 0;
-                        parts.forEach(p => {
-                            let item = p.trim().split('=');
-                            if (item[0] === 'download') download = parseInt(item[1]);
-                            if (item[0] === 'expire') expire = parseInt(item[1]);
-                        });
-                        
-                        if (download) {
-                            let gb = (download / (1024 * 1024 * 1024)).toFixed(1);
-                            document.getElementById('traffic-info').innerText = `Использовано: ${gb} GB / ∞`;
-                        }
-                        if (expire) {
-                            let date = new Date(expire * 1000).toLocaleDateString('ru-RU');
-                            document.getElementById('expire-info').innerText = `Истекает: ${date}`;
-                        }
-                    }
+        const userAgent = navigator.userAgent.toLowerCase();
+        const isVpnClient = userAgent.includes('v2ray') || 
+                            userAgent.includes('hiddify') || 
+                            userAgent.includes('happ') || 
+                            userAgent.includes('clash') || 
+                            userAgent.includes('sing-box') ||
+                            userAgent.includes('dart') || 
+                            userAgent.includes('okhttp');
+
+        if (isVpnClient) {
+            fetch('sub.txt')
+                .then(response => response.text())
+                .then(data => {
+                    document.open();
+                    document.write('<pre>' + data + '</pre>');
+                    document.close();
                 });
-            })
-            .catch(err => {
-                document.getElementById('traffic-info').innerText = 'Не удалось загрузить данные подписки';
-            });
+        }
     </script>
 </body>
 </html>
-
-
