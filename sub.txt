@@ -12,13 +12,7 @@ vless://7074b9d7-2183-8919-fc11-ca5e00000000@104.21.200.243:2053?encryption=none
 trojan://humanity@2.144.21.112:40443?host=[www.ignitelimit.com](https://www.ignitelimit.com)&path=%2Fassignment&sni=[www.ignitelimit.com](https://www.ignitelimit.com)&type=ws#Франция 🍃
 ss://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#Зарубежный 🍃
 ss://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?encryption=none&fp=&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&security=reality&sid=df8611c07d&sni=updates.cdn-apple.com&type=tcp#США 🍃
-ss://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#Россия 🍃
-ss://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?encryption=none&fp=qq&host=sync.watchwave.link&path=%2Fapi%2Fv1%2Frooms%2F63368e3dbb%2Fsync&security=tls&sni=cdn.tracker.yandex.net&type=ws#Зарубежный 🍃
 vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#Зарубежный 🍃
-vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?encryption=none&fp=&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&security=reality&sid=df8611c07d&sni=updates.cdn-apple.com&type=tcp#США 🍃
-vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#Россия 🍃
-vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?encryption=none&fp=qq&host=sync.watchwave.link&path=%2Fapi%2Fv1%2Frooms%2F63368e3dbb%2Fsync&security=tls&sni=cdn.tracker.yandex.net&type=ws#Зарубежный 🍃
-trojan://humanity@104.18.152.225:443?host=[www.ignitelimit.com](https://www.ignitelimit.com)&path=%2Fassignment&sni=[www.ignitelimit.com](https://www.ignitelimit.com)&type=ws#Франция 🍃
 trojan://humanity@104.18.152.208:443?host=[www.ignitelimit.com](https://www.ignitelimit.com)&path=%2Fassignment&sni=[www.ignitelimit.com](https://www.ignitelimit.com)&type=ws#Франция 🍃
 trojan://humanity@104.16.174.71:443?host=[www.ignitelimit.com](https://www.ignitelimit.com)&path=%2Fassignment&sni=[www.ignitelimit.com](https://www.ignitelimit.com)&type=ws#Франция 🍃
 trojan://humanity@104.16.174.121:443?host=[www.ignitelimit.com](https://www.ignitelimit.com)&path=%2Fassignment&sni=[www.ignitelimit.com](https://www.ignitelimit.com)&type=ws#Франция 🍃
