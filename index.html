@@ -24,6 +24,7 @@
             text-align: center;
             max-width: 400px;
             width: 90%;
+            position: relative;
         }
         h1 { margin-top: 0; color: #38bdf8; font-size: 24px; }
         .status { 
@@ -52,6 +53,11 @@
             display: inline-block;
             transition: background 0.2s;
             box-sizing: border-box;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+            text-align: center;
         }
         .btn:hover {
             background-color: #0369a1;
@@ -62,6 +68,27 @@
         .btn-secondary:hover {
             background-color: #475569;
         }
+        #toast {
+            visibility: hidden;
+            background-color: #10b981;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 10px;
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80%;
+            font-size: 14px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            transition: visibility 0.2s, opacity 0.2s;
+            opacity: 0;
+        }
+        #toast.show {
+            visibility: visible;
+            opacity: 1;
+        }
     </style>
 </head>
 <body>
@@ -70,20 +97,37 @@
         <div class="status">Travkavpn работает стабильно!</div>
         <p>Последнее обновление списков было:<br><strong id="update-time">загрузка...</strong></p>
         
-        <div class="btn-group" id="btn-group">
+        <div class="btn-group">
             <a href="#" id="btn-happ" class="btn">Открыть в Happ</a>
             <a href="#" id="btn-hiddify" class="btn btn-secondary">Открыть в Hiddify</a>
             <a href="#" id="btn-v2raytun" class="btn btn-secondary">Открыть в V2rayTun</a>
         </div>
+
+        <div id="toast">Ссылка скопирована</div>
     </div>
 
     <script>
         const githubRawUrl = "https://raw.githubusercontent.com/TravkaVPN/TravkaVPNsub/refs/heads/main/sub.txt";
-
         const encodedUrl = encodeURIComponent(githubRawUrl);
-        document.getElementById('btn-happ').href = `happ://import?url=${encodedUrl}`;
+
+        document.getElementById('btn-happ').href = `happ://add/?url=${encodedUrl}`;
         document.getElementById('btn-hiddify').href = `hiddify://import?url=${encodedUrl}`;
         document.getElementById('btn-v2raytun').href = `v2raytun://import?url=${encodedUrl}`;
+
+        document.querySelectorAll('.btn-group a').forEach(btn => {
+            btn.addEventListener('click', function() {
+                setTimeout(() => {
+                    navigator.clipboard.writeText(githubRawUrl);
+                    showToast();
+                }, 500);
+            });
+        });
+
+        function showToast() {
+            const toast = document.getElementById("toast");
+            toast.className = "show";
+            setTimeout(() => { toast.className = toast.className.replace("show", ""); }, 3000);
+        }
 
         async function getLastUpdate() {
             try {
