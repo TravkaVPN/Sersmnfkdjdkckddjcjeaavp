@@ -13,19 +13,19 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            height: 100vh;
+            min-height: 100vh;
             margin: 0;
         }
         .card {
             background: #1e293b;
-            padding: 30px;
+            padding: 35px 30px;
             border-radius: 16px;
             box-shadow: 0 10px 25px rgba(0,0,0,0.3);
             text-align: center;
             max-width: 400px;
             width: 90%;
         }
-        h1 { margin-top: 0; color: #38bdf8; }
+        h1 { margin-top: 0; color: #38bdf8; font-size: 24px; }
         .status { 
             background: #065f46; 
             color: #34d399; 
@@ -33,38 +33,81 @@
             border-radius: 20px; 
             display: inline-block; 
             font-weight: bold;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
+            font-size: 14px;
         }
-        p { color: #94a3b8; line-height: 1.5; font-size: 14px; }
+        p { color: #94a3b8; line-height: 1.5; font-size: 14px; margin-bottom: 25px; }
+        .btn-group {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .btn {
+            background-color: #0284c7;
+            color: white;
+            padding: 12px 20px;
+            border-radius: 10px;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-block;
+            transition: background 0.2s;
+            box-sizing: border-box;
+        }
+        .btn:hover {
+            background-color: #0369a1;
+        }
+        .btn-secondary {
+            background-color: #334155;
+        }
+        .btn-secondary:hover {
+            background-color: #475569;
+        }
     </style>
 </head>
 <body>
     <div class="card">
         <h1>🌿 Травка VPN</h1>
-        <div class="status">Подписка активна</div>
-        <p>Вставьте эту ссылку в ваш VPN-клиент для импорта серверов.</p>
+        <div class="status">Travkavpn работает стабильно!</div>
+        <p>Последнее обновление списков было:<br><strong id="update-time">загрузка...</strong></p>
+        
+        <div class="btn-group" id="btn-group">
+            <a href="#" id="btn-happ" class="btn">Открыть в Happ</a>
+            <a href="#" id="btn-hiddify" class="btn btn-secondary">Открыть в Hiddify</a>
+            <a href="#" id="btn-v2raytun" class="btn btn-secondary">Открыть в V2rayTun</a>
+        </div>
     </div>
 
     <script>
-        fetch('sub.txt')
-            .then(response => response.text())
-            .then(data => {
-                const userAgent = navigator.userAgent.toLowerCase();
-                const isVpnClient = userAgent.includes('v2ray') || 
-                                    userAgent.includes('hiddify') || 
-                                    userAgent.includes('happ') || 
-                                    userAgent.includes('clash') || 
-                                    userAgent.includes('sing-box') ||
-                                    userAgent.includes('dart') || 
-                                    userAgent.includes('okhttp');
+        const githubRawUrl = "https://raw.githubusercontent.com/TravkaVPN/TravkaVPNsub/refs/heads/main/sub.txt";
 
-                if (isVpnClient) {
-                    document.open();
-                    document.write('<pre>' + data + '</pre>');
-                    document.close();
+        const encodedUrl = encodeURIComponent(githubRawUrl);
+        document.getElementById('btn-happ').href = `happ://import?url=${encodedUrl}`;
+        document.getElementById('btn-hiddify').href = `hiddify://import?url=${encodedUrl}`;
+        document.getElementById('btn-v2raytun').href = `v2raytun://import?url=${encodedUrl}`;
+
+        async function getLastUpdate() {
+            try {
+                const response = await fetch(`https://api.github.com/repos/TravkaVPN/TravkaVPNsub/commits?path=sub.txt&per_page=1`);
+                const commits = await response.json();
+                
+                if (commits && commits.length > 0) {
+                    const commitDate = new Date(commits[0].commit.committer.date);
+                    document.getElementById('update-time').innerText = commitDate.toLocaleString("ru-RU", {
+                        timeZone: "Europe/Moscow",
+                        day: "numeric",
+                        month: "long",
+                        hour: "2-digit",
+                        minute: "2-digit"
+                    });
+                } else {
+                    document.getElementById('update-time').innerText = "недавно";
                 }
-            });
+            } catch (e) {
+                document.getElementById('update-time').innerText = "не удалось загрузить";
+            }
+        }
+
+        getLastUpdate();
     </script>
 </body>
 </html>
-
