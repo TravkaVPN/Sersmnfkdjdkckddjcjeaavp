@@ -6,23 +6,22 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@130.61.232.226:59924#Германия 🇩🇪 🍃
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.184.30:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.184.30:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
-ss://d8506e85-4631-4513-9651-5914b8b33e5d@104.21.67.187:2087?path=%2F%40saeedtelcom%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=unitedkingdom.iranfastspeed.net&fp=firefox&type=httpupgrade&sni=unitedkingdom.iranfastspeed.net#США 🇺🇸 🍃
-ss://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#Германия 🇩🇪 🍃
-vless://d8506e85-4631-4513-9651-5914b8b33e5d@104.21.67.187:2087?path=%2F%40saeedtelcom%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=unitedkingdom.iranfastspeed.net&fp=firefox&type=httpupgrade&sni=unitedkingdom.iranfastspeed.net#США 🇺🇸 🍃
-vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#Германия 🇩🇪 🍃
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Нидерланды 🇳🇱 🍃
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#Казахстан 🇰🇿 🍃
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#Франция 🇫🇷 🍃
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.65.145.222:22222?encryption=none&security=none&type=tcp#Германия 🇩🇪 🍃
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.65.145.222:22222?encryption=none&security=none&type=tcp#Германия 🇩🇪 🍃
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.188:10901#Италия 🇮🇹 🍃
-ss://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&fp=random&type=ws&sni=kssepa.sabzipolobamahi.dpdns.org#США 🇺🇸 🍃
-ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#Финляндия 🇫🇮 🍃
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&fp=random&type=ws&sni=kssepa.sabzipolobamahi.dpdns.org#США 🇺🇸 🍃
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#Финляндия 🇫🇮 🍃
-vless://83eda926-645c-4f88-9dbe-bf33ac18c8f4@178.159.94.108:2083?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=swe-one.quiet-rogue.site&pbk=40eDnye2AHCQqgM2_ikKzRayZ4Vlu4rnnkHmLmNalQc&sid=32a37218722f0081&encryption=none&fp=android#ОТ ГЛУШИЛОК 1 🍃
-vless://83eda926-645c-4f88-9dbe-bf33ac18c8f4@178.159.94.108:2083?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=swe-one.quiet-rogue.site&pbk=40eDnye2AHCQqgM2_ikKzRayZ4Vlu4rnnkHmLmNalQc&sid=32a37218722f0081&encryption=none&fp=edge#ОТ ГЛУШИЛОК 2 🍃
-vless://83eda926-645c-4f88-9dbe-bf33ac18c8f4@178.159.94.108:2083?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=swe-one.quiet-rogue.site&pbk=40eDnye2AHCQqgM2_ikKzRayZ4Vlu4rnnkHmLmNalQc&sid=32a37218722f0081&encryption=none&fp=firefox#ОТ ГЛУШИЛОК 3 🍃
-vless://83eda926-645c-4f88-9dbe-bf33ac18c8f4@178.159.94.108:2083?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=swe-one.quiet-rogue.site&pbk=40eDnye2AHCQqgM2_ikKzRayZ4Vlu4rnnkHmLmNalQc&sid=32a37218722f0081&encryption=none&fp=ios#ОТ ГЛУШИЛОК 4 🍃
-vless://83eda926-645c-4f88-9dbe-bf33ac18c8f4@178.159.94.108:2083?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=swe-one.quiet-rogue.site&pbk=40eDnye2AHCQqgM2_ikKzRayZ4Vlu4rnnkHmLmNalQc&sid=32a37218722f0081&encryption=none&fp=qq#ОТ ГЛУШИЛОК 5 🍃
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=chrome#ОТ ГЛУШИЛОК 6 🍃
+ss://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@n00sbsf-sdcxvcg-sdc-4erfd--4rewdsc.appcodes.ir:8080?encryption=none#Турция 🇹🇷 🍃
+ss://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@104.17.121.110:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F%3Fed%3D2560&host=rtr.codinos.ir#Турция 🇹🇷 🍃
+ss://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@104.17.121.110:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F%3Fed%3D2560&host=degerman.systemcont.ir#Германия 🇩🇪 🍃
+ss://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@odc-wdscx.appcodes.ir:2026?encryption=none&security=reality&type=tcp&headerType=none&sni=updates.cdn-apple.com&fp=chrome&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#Германия 🇩🇪 🍃
+ss://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@m-wdscdsf.appcodes.ir:2024?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=is1-ssl.mzstatic.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Германия 🇩🇪 🍃
+vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@n00sbsf-sdcxvcg-sdc-4erfd--4rewdsc.appcodes.ir:8080?encryption=none#Турция 🇹🇷 🍃
+vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@104.17.121.110:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F%3Fed%3D2560&host=rtr.codinos.ir#Турция 🇹🇷 🍃
+vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@104.17.121.110:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F%3Fed%3D2560&host=degerman.systemcont.ir#Германия 🇩🇪 🍃
+vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@odc-wdscx.appcodes.ir:2026?encryption=none&security=reality&type=tcp&headerType=none&sni=updates.cdn-apple.com&fp=chrome&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&sid=ca930e5d4a603c6a#Германия 🇩🇪 🍃
+vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@m-wdscdsf.appcodes.ir:2024?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=is1-ssl.mzstatic.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Германия 🇩🇪 🍃
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGcxd2JjYnV0eFB3WkU2VXhjdXJrYTNHa29hdGdFZFg0ODNYWlNIZUpwM2pYY1RTaExDUk04clBnTUYzdllOZlM@217.28.129.81:42982#США 🇺🇸 🍃
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.184.30:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.184.30:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
+vless://130e6aab-9eba-441e-9021-22cbccc72832@176.108.252.240:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&fp=android#ОТ ГЛУШИЛОК 1 🍃
+vless://130e6aab-9eba-441e-9021-22cbccc72832@176.108.252.240:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&fp=firefox#ОТ ГЛУШИЛОК 2 🍃
+vless://130e6aab-9eba-441e-9021-22cbccc72832@176.108.252.240:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&fp=ios#ОТ ГЛУШИЛОК 3 🍃
+vless://130e6aab-9eba-441e-9021-22cbccc72832@176.108.252.240:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&fp=qq#ОТ ГЛУШИЛОК 4 🍃
+vless://130e6aab-9eba-441e-9021-22cbccc72832@176.108.252.240:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&fp=safari#ОТ ГЛУШИЛОК 5 🍃
+vless://8e9e9f2a-f4ee-48a3-aa3f-d79169890ca8@91.185.83.94:5443?encryption=none&flow=xtls-rprx-vision&pbk=A3BZvaih9lBbMaKWjndiEdhCDZLMRbeRD1fI8CP4324&security=reality&sni=5post-gate.x5.ru&type=raw&fp=android#ОТ ГЛУШИЛОК 6 🍃
