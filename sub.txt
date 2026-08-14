@@ -3,26 +3,26 @@
 #subscription-userinfo: upload=0; download=115211829248; total=0; expire=1788739200
 #profile-web-page-url: https://TravkaVPNbot.t.me
 
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.114.204:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.114.204:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.250.68:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.250.68:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
-ss://99846bfd-9ce2-4776-9c53-ca12bfcad077@104.17.147.22:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=none&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#США 🇺🇸 🍃
-ss://ItsLegendaryking@pub2.legendaryking.link:443?security=reality&sni=fortune.com&fp=chrome&pbk=8UMZ6q74yjStq0Gad3QhEVYUZW3traIgWx9QWHpYLBI&sid=e1ac93f1&spx=/&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&encryption=none#Зарубежный 🍃
-vless://99846bfd-9ce2-4776-9c53-ca12bfcad077@104.17.147.22:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=none&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#США 🇺🇸 🍃
-vless://ItsLegendaryking@pub2.legendaryking.link:443?security=reality&sni=fortune.com&fp=chrome&pbk=8UMZ6q74yjStq0Gad3QhEVYUZW3traIgWx9QWHpYLBI&sid=e1ac93f1&spx=/&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&encryption=none#Зарубежный 🍃
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.212.143:22222?encryption=none&security=none&type=tcp#Германия 🇩🇪 🍃
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.186.212.143:22222?encryption=none&security=none&type=tcp#Германия 🇩🇪 🍃
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.86.242:61312#Великобритания 🇬🇧 🍃
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.184.26:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1h0dkNFUTFaVTFyekYzZklLMGZ3PT0=@77.240.38.27:8443#Казахстан 🇰🇿 🍃
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@130.61.114.19:59924#Германия 🇩🇪 🍃
+ss://c05b3513-6fd0-4a12-a888-d40028126d68@tr2.ramcalshoping.ir:18020?security=reality&pqv=Yk2GtFRFG3FN7CzRgJV3zE50618Qd7WA-kqjmyO48v8bpDV2A-1Od7O-R7pudk7DeHcpeDHKSC8ey1xMl2Q7D_Rw7fdL2U6A-xuU9t_0lrBLnDr4RiYXVsB…#Зарубежный 🍃
+ss://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Сингапур 🇸🇬 🍃
+ss://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#Зарубежный 🍃
+ss://24f8209b-6689-4e7a-b067-f886e04dfc43@ru-1.p-esmy.icu:2066?security=reality&encryption=none&pbk=XIBKbglsQ9pI4eo26LoUkmNxnVqlKtxZRO0H91v3jF0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=1b2a3f#Зарубежный 🍃
+vless://c05b3513-6fd0-4a12-a888-d40028126d68@tr2.ramcalshoping.ir:18020?security=reality&pqv=Yk2GtFRFG3FN7CzRgJV3zE50618Qd7WA-kqjmyO48v8bpDV2A-1Od7O-R7pudk7DeHcpeDHKSC8ey1xMl2Q7D_Rw7fdL2U6A-xuU9t_0lrBLnDr4RiYXVsB…#Зарубежный 🍃
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Сингапур 🇸🇬 🍃
+vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#Зарубежный 🍃
+vless://24f8209b-6689-4e7a-b067-f886e04dfc43@ru-1.p-esmy.icu:2066?security=reality&encryption=none&pbk=XIBKbglsQ9pI4eo26LoUkmNxnVqlKtxZRO0H91v3jF0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=1b2a3f#Зарубежный 🍃
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#Нидерланды 🇳🇱 🍃
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#Нидерланды 🇳🇱 🍃
-ss://7bad2320-38f5-4178-adfb-51f126af12fb@31.56.222.83:2053?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fstream%2Fnorman&pbk=6Xk_Me1M8N4zqLZmXJVm4hsKj2KlR9PAEUMqHWNJdX0&security=reality&sid=6720c0d4&sni=timeline.www.cloudflare.com&spx=%2Fca03dcf8d926dcb&type=xhttp&x_padding_bytes=100-1000#Зарубежный 🍃
-ss://7bad2320-38f5-4178-adfb-51f126af12fb@31.56.222.83:8442?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2Fstream&security=tls&sni=&type=ws#Зарубежный 🍃
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw&fp=firefox#ОТ ГЛУШИЛОК 1 🍃
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw&fp=ios#ОТ ГЛУШИЛОК 2 🍃
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw&fp=qq#ОТ ГЛУШИЛОК 3 🍃
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw&fp=chrome#ОТ ГЛУШИЛОК 4 🍃
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw&fp=edge#ОТ ГЛУШИЛОК 5 🍃
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw&fp=safari#ОТ ГЛУШИЛОК 6 🍃`
-vless://36da9d41-80de-4e14-8d68-a5ecb032af71@185.178.208.176:443?encryption=none&host=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522359&security=tls&sni=ncd.crsmaps.com&type=ws&fp=firefox#Бразилия 🇧🇷 🍃
-vless://36da9d41-80de-4e14-8d68-a5ecb032af71@ncd.crsmaps.com:443?type=ws&security=tls&encryption=none&sni=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522359&host=ncd.crsmaps.com&fp=edge#Бразилия 🇧🇷 🍃
-vless://36da9d41-80de-4e14-8d68-a5ecb032af71@ncd.crsmaps.com:443?type=ws&security=tls&encryption=none&sni=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522359&host=ncd.crsmaps.com&fp=firefox#Бразилия 🇧🇷 🍃
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.222.37:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.222.37:22222?encryption=none&security=none&type=tcp#Франция 🇨🇵 🍃
+ss://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Германия 🇩🇪 🍃
+vless://553e3253-c454-431d-a7e6-42bc06ea5e14@176.109.108.83:9830?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc&fp=android#ОТ ГЛУШИЛОК 1 🍃
+vless://553e3253-c454-431d-a7e6-42bc06ea5e14@176.109.108.83:9830?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc&fp=chrome#ОТ ГЛУШИЛОК 2 🍃
+vless://553e3253-c454-431d-a7e6-42bc06ea5e14@176.109.108.83:9830?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc&fp=edge#ОТ ГЛУШИЛОК 3 🍃
+vless://553e3253-c454-431d-a7e6-42bc06ea5e14@176.109.108.83:9830?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc&fp=firefox#ОТ ГЛУШИЛОК 4 🍃
+vless://553e3253-c454-431d-a7e6-42bc06ea5e14@176.109.108.83:9830?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc&fp=safari#ОТ ГЛУШИЛОК 5 🍃
+vless://130e6aab-9eba-441e-9021-22cbccc72832@176.109.106.34:9888?encryption=none&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc&fp=chrome#ОТ ГЛУШИЛОК 6 🍃
